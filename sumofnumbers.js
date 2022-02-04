@@ -35,3 +35,4 @@ function sumTheSimpleWay (data) {
     return memo + key;
   }, 0);
 }
+console.log(sumTheSimpleWay(testA));
